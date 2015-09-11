@@ -1,0 +1,208 @@
+BACKUP/TR8_KIT1.PRM
+BD (2):	lvl: 100 pan: 64 ARD
+SD (1):	lvl: 100 pan: 64 ARD
+LT (2):	lvl: 100 pan: 64 ARD
+MT (0):	lvl: 100 pan: 64 ARD
+HT (0):	lvl: 100 pan: 64 ARD
+RS (0):	lvl: 100 pan: 64 ARD
+HC (0):	lvl: 100 pan: 44 ARD
+CH (0):	lvl: 100 pan: 92 ARD
+OH (0):	lvl: 100 pan: 54 ARD
+CC (0):	lvl: 100 pan: 84 ARD
+RC (1):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT2.PRM
+BD (1):	lvl: 100 pan: 64 ARD
+SD (1):	lvl: 100 pan: 64 ARD
+LT (2):	lvl: 100 pan: 83 ARD
+MT (1):	lvl: 100 pan: 64 ARD
+HT (1):	lvl: 100 pan: 45 ARD
+RS (1):	lvl: 100 pan: 64 ARD
+HC (1):	lvl: 100 pan: 64 ARD
+CH (1):	lvl: 100 pan: 45 ARD
+OH (1):	lvl: 100 pan: 45 ARD
+CC (1):	lvl: 100 pan: 70 ARD
+RC (1):	lvl: 100 pan: 83 ARD
+
+BACKUP/TR8_KIT3.PRM
+BD (0):	lvl: 100 pan: 64 ARD
+SD (0):	lvl: 100 pan: 64 AR
+LT (2):	lvl: 100 pan: 64 AR
+MT (2):	lvl: 100 pan: 64 AR
+HT (2):	lvl: 100 pan: 64 AR
+RS (2):	lvl: 100 pan: 64 AR
+HC (2):	lvl: 100 pan: 64 AR
+CH (0):	lvl: 100 pan: 64 AR
+OH (0):	lvl: 100 pan: 64 AR
+CC (0):	lvl: 100 pan: 64 AR
+RC (0):	lvl: 100 pan: 64 AR
+
+BACKUP/TR8_KIT4.PRM
+BD (1):	lvl: 100 pan: 64 ARD
+SD (0):	lvl: 100 pan: 64 ARD
+LT (2):	lvl: 100 pan: 64 ARD
+MT (2):	lvl: 100 pan: 64 ARD
+HT (2):	lvl: 100 pan: 64 ARD
+RS (0):	lvl: 100 pan: 64 ARD
+HC (0):	lvl: 100 pan: 64 ARD
+CH (0):	lvl: 100 pan: 64 ARD
+OH (0):	lvl: 100 pan: 64 ARD
+CC (0):	lvl: 100 pan: 64 ARD
+RC (0):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT5.PRM
+BD (2):	lvl: 100 pan: 64 AR
+SD (0):	lvl: 100 pan: 64 ARD
+LT (1):	lvl: 100 pan: 64 ARD
+MT (1):	lvl: 100 pan: 64 ARD
+HT (1):	lvl: 100 pan: 64 ARD
+RS (0):	lvl: 100 pan: 64 ARD
+HC (0):	lvl: 100 pan: 64 ARD
+CH (0):	lvl: 100 pan: 64 ARD
+OH (1):	lvl: 100 pan: 64 ARD
+CC (0):	lvl: 100 pan: 64 ARD
+RC (1):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT6.PRM
+BD (0):	lvl: 100 pan: 64 ARD
+SD (0):	lvl: 100 pan: 64 ARD
+LT (2):	lvl: 100 pan: 64 ARD
+MT (2):	lvl: 100 pan: 64 ARD
+HT (2):	lvl: 100 pan: 64 ARD
+RS (0):	lvl: 100 pan: 64 ARD
+HC (0):	lvl: 100 pan: 64 ARD
+CH (1):	lvl: 100 pan: 64 ARD
+OH (1):	lvl: 100 pan: 64 ARD
+CC (1):	lvl: 100 pan: 64 ARD
+RC (1):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT7.PRM
+BD (0):	lvl: 100 pan: 64 ARD
+SD (1):	lvl: 100 pan: 64 ARD
+LT (2):	lvl: 100 pan: 64 ARD
+MT (2):	lvl: 100 pan: 64 ARD
+HT (2):	lvl: 100 pan: 64 ARD
+RS (2):	lvl: 100 pan: 64 ARD
+HC (2):	lvl: 100 pan: 64 ARD
+CH (1):	lvl: 100 pan: 64 ARD
+OH (1):	lvl: 100 pan: 64 ARD
+CC (1):	lvl: 100 pan: 64 ARD
+RC (1):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT8.PRM
+BD (1):	lvl: 100 pan: 64 ARD
+SD (1):	lvl: 100 pan: 64 ARD
+LT (2):	lvl: 100 pan: 83 ARD
+MT (1):	lvl: 100 pan: 64 ARD
+HT (2):	lvl: 100 pan: 45 ARD
+RS (1):	lvl: 100 pan: 64 ARD
+HC (0):	lvl: 100 pan: 64 ARD
+CH (1):	lvl: 100 pan: 45 ARD
+OH (1):	lvl: 100 pan: 45 ARD
+CC (0):	lvl: 100 pan: 70 ARD
+RC (1):	lvl: 100 pan: 83 ARD
+
+BACKUP/TR8_KIT9.PRM
+BD (0):	lvl: 100 pan: 64 ARD
+SD (0):	lvl: 100 pan: 64 ARD
+LT (0):	lvl: 100 pan: 64 ARD
+MT (0):	lvl: 100 pan: 64 ARD
+HT (0):	lvl: 100 pan: 64 ARD
+RS (0):	lvl: 100 pan: 64 ARD
+HC (0):	lvl: 100 pan: 64 ARD
+CH (0):	lvl: 100 pan: 64 ARD
+OH (0):	lvl: 100 pan: 64 ARD
+CC (0):	lvl: 100 pan: 64 ARD
+RC (0):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT10.PRM
+BD (1):	lvl: 100 pan: 64 ARD
+SD (1):	lvl: 100 pan: 64 ARD
+LT (1):	lvl: 100 pan: 64 ARD
+MT (1):	lvl: 100 pan: 64 ARD
+HT (1):	lvl: 100 pan: 64 ARD
+RS (1):	lvl: 100 pan: 64 ARD
+HC (1):	lvl: 100 pan: 64 ARD
+CH (1):	lvl: 100 pan: 64 ARD
+OH (1):	lvl: 100 pan: 64 ARD
+CC (1):	lvl: 100 pan: 64 ARD
+RC (1):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT11.PRM
+BD (0):	lvl: 100 pan: 64 ARD
+SD (0):	lvl: 100 pan: 64 ARD
+LT (2):	lvl: 100 pan: 64 ARD
+MT (2):	lvl: 100 pan: 64 ARD
+HT (2):	lvl: 100 pan: 64 ARD
+RS (2):	lvl: 100 pan: 64 ARD
+HC (2):	lvl: 100 pan: 64 ARD
+CH (0):	lvl: 100 pan: 64 ARD
+OH (0):	lvl: 100 pan: 64 ARD
+CC (0):	lvl: 100 pan: 64 ARD
+RC (0):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT12.PRM
+BD (1):	lvl: 100 pan: 64 ARD
+SD (0):	lvl: 100 pan: 64 ARD
+LT (2):	lvl: 100 pan: 64 ARD
+MT (2):	lvl: 100 pan: 64 ARD
+HT (2):	lvl: 100 pan: 64 ARD
+RS (0):	lvl: 100 pan: 64 ARD
+HC (0):	lvl: 100 pan: 64 ARD
+CH (0):	lvl: 100 pan: 64 ARD
+OH (0):	lvl: 100 pan: 64 ARD
+CC (0):	lvl: 100 pan: 64 ARD
+RC (0):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT13.PRM
+BD (1):	lvl: 100 pan: 64 ARD
+SD (1):	lvl: 100 pan: 64 ARD
+LT (0):	lvl: 100 pan: 64 ARD
+MT (1):	lvl: 100 pan: 64 ARD
+HT (1):	lvl: 100 pan: 64 ARD
+RS (0):	lvl: 100 pan: 64 ARD
+HC (0):	lvl: 100 pan: 64 ARD
+CH (0):	lvl: 100 pan: 64 ARD
+OH (1):	lvl: 100 pan: 64 ARD
+CC (1):	lvl: 100 pan: 64 ARD
+RC (1):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT14.PRM
+BD (2):	lvl: 100 pan: 64 ARD
+SD (0):	lvl: 100 pan: 64 ARD
+LT (2):	lvl: 100 pan: 64 ARD
+MT (2):	lvl: 100 pan: 64 ARD
+HT (2):	lvl: 100 pan: 64 ARD
+RS (0):	lvl: 100 pan: 64 ARD
+HC (0):	lvl: 100 pan: 64 ARD
+CH (1):	lvl: 100 pan: 64 ARD
+OH (1):	lvl: 100 pan: 64 ARD
+CC (1):	lvl: 100 pan: 64 ARD
+RC (1):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT15.PRM
+BD (0):	lvl: 100 pan: 64 ARD
+SD (0):	lvl: 100 pan: 64 ARD
+LT (2):	lvl: 100 pan: 64 ARD
+MT (2):	lvl: 100 pan: 64 ARD
+HT (2):	lvl: 100 pan: 64 ARD
+RS (2):	lvl: 100 pan: 64 ARD
+HC (1):	lvl: 100 pan: 64 ARD
+CH (0):	lvl: 100 pan: 64 ARD
+OH (0):	lvl: 100 pan: 64 ARD
+CC (0):	lvl: 100 pan: 64 ARD
+RC (0):	lvl: 100 pan: 64 ARD
+
+BACKUP/TR8_KIT16.PRM
+BD (1):	lvl: 100 pan: 64 ARD
+SD (1):	lvl: 100 pan: 64 ARD
+LT (2):	lvl: 100 pan: 83 ARD
+MT (2):	lvl: 100 pan: 64 ARD
+HT (2):	lvl: 100 pan: 45 ARD
+RS (1):	lvl: 100 pan: 64 ARD
+HC (0):	lvl: 100 pan: 64 ARD
+CH (1):	lvl: 100 pan: 45 ARD
+OH (1):	lvl: 100 pan: 45 ARD
+CC (0):	lvl: 100 pan: 70 ARD
+RC (1):	lvl: 100 pan: 83 ARD
+
