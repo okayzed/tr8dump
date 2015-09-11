@@ -44,8 +44,19 @@ class TR8Pattern(object):
 
     def printPattern(self):
         noBits = []
-        last_step_a = self.misc['LAST_A']
-        last_step_b = self.misc['LAST_B']
+        last_step_a = self.misc['LAST_A'] + 1
+        last_step_b = self.misc['LAST_B'] + 1
+        scale = self.misc['SCALE']
+
+        if scale == 0:
+            divisor = 3
+        if scale == 1:
+            divisor = 6
+        if scale == 2:
+            divisor = 4
+        if scale == 3:
+            divisor = 8
+
         for instrument in INSTRUMENTS:
             a_str = ["-"] * last_step_a
             b_str = ["-"] * last_step_b
@@ -69,6 +80,10 @@ class TR8Pattern(object):
                     if testBit(is_acc, x):
                         b_str[x] = 'o'
 
+            for i in xrange(len(a_str) - 1, 0, -1):
+                if i % divisor == 0:
+                    a_str.insert(i, "|")
+                    b_str.insert(i, "|")
 
             print "%s: %s  %s" % (instrument, "".join(a_str), "".join(b_str))
 
