@@ -43,14 +43,6 @@ class TR8Pattern(object):
         self.misc = defaultdict(int)
 
     def printPattern(self):
-        vari = self.misc["VARI"]
-        if vari == 0:
-            print "STARTS WITH A ONLY"
-        if vari == 1:
-            print "STARTS WITH B ONLY"
-        if vari == 2:
-            print "STARTS WITH A/B ON"
-
         noBits = []
         last_step_a = self.misc['LAST_A']
         last_step_b = self.misc['LAST_B']
@@ -85,6 +77,15 @@ class TR8Pattern(object):
 
         if len(noBits) > 0:
             print "EMPTY: %s" % (",".join(noBits))
+
+        vari = self.misc["VARI"]
+        if vari == 0:
+            print "STARTS WITH A ONLY"
+        if vari == 1:
+            print "STARTS WITH B ONLY"
+        if vari == 2:
+            print "STARTS WITH A/B ON"
+
 
 
 
